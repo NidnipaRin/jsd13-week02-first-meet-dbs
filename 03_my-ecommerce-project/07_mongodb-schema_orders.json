@@ -1,0 +1,44 @@
+{
+  "_id": "o001",
+  "customer_id": "001",
+  "products": [
+    {
+      "product_id": "c001",
+      "name": "Diamond Scanning Crash Course",
+      "quantity": 1,
+      "price": 1590,
+      "booking_info": {
+        "date": "2026-08-13",
+        "time": "18:00"
+      }
+    },
+    {
+      "product_id": "c002",
+      "name": "Solitaire Friend",
+      "quantity": 1,
+      "price": 2590,
+      "booking_info": {
+        "date": "2026-08-12",
+        "time": "14:00",
+        "location": "Central World",
+        "note": "อยากได้แหวนเพชรน้ำ 100 งบ 1 แสน ทรงกลมครับ"
+      }
+    },
+    {
+      "product_id": "c003",
+      "name": "Solitaire Diamond Starter Kit",
+      "quantity": 1,
+      "price": 1290
+    }
+  ],
+  "total_amount": 5470,
+  "shipping_address": {
+    "street": "123/45 ถนนวงศ์สว่าง แขวงวงศ์สว่าง เขตบางซื่อ",
+    "city": "Bangkok",
+    "postal_code": "10800",
+    "country": "Thailand"
+  },
+  "payment_status": "paid",
+  "order_status": "shipped",
+  "created_at": "2026-07-09 13:30:00"
+}

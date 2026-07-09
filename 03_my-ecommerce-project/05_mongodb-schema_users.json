@@ -4,16 +4,19 @@
     "email": "ruby.corundum@example.com",
     "shopping_cart":[
         {"product_id": "c001",
+            "product_name": "Diamond Scanning Crash Course",
             "quantity": 1,
             "price": 1590,
             "booking_info": {"date": "2026-08-13", "time": "18:00" }
                 },
         {"product_id": "c002",
+            "product_name": "Solitaire Friend",
             "quantity": 1,
             "price": 2590,
             "booking_info": {"date": "2026-08-12", "time": "14:00", "location": "Central World", "note": "อยากได้แหวนเพชรน้ำ 100 งบ 1 แสน ทรงกลมครับ" }
                 } ,
         {"product_id": "c003", 
+            "product_name": "Solitaire Diamond Starter Kit",
             "quantity": 1, 
             "price": 1290 }
     ]
