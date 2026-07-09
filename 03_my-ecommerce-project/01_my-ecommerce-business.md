@@ -31,9 +31,9 @@
 
 1. Browse Products & Services: 
    * ลูกค้าสามารถเลือกซื้อสินค้าและบริการได้ 3 รูปแบบในร้าน
-     * Physical Product (Pre-purchase Starter Kit): ขายเซ็ตอุปกรณ์ฝึกส่องเพชร
-     * Digital Service (1-Hour Diamond Crash Course): คอร์สเรียนออนไลน์+ให้คำปรึกษาผ่าน Zoom 1 ชม.
-     * O2O Premium Service (The Buying Companion): บริการส่ง Expert ไปเป็นเพื่อนซื้อที่หน้าร้าน
+     * Physical Product (Solitaire Diamond Starter Kit): ขายเซ็ตอุปกรณ์ฝึกส่องเพชร
+     * Digital Service (Diamond Scanning Crash Course): คอร์สเรียนออนไลน์+ให้คำปรึกษาผ่าน Zoom 1 ชม.
+     * O2O Premium Service (Solitaire Friend): บริการส่ง Expert ไปเป็นเพื่อนซื้อที่หน้าร้าน
    * มีหน้าบทความ (Content Hub) เกี่ยวกับเพชรและการแต่งงานให้ลูกค้าอ่านฟรี คอยดึง Traffic และมีปุ่ม Call-to-Action (CTA) เชื่อมโยงเข้าสู่การกดซื้อบริการที่เกี่ยวข้องได้ทันที
 
 2. Add to Cart with Custom (ระบบตะกร้าสินค้า):

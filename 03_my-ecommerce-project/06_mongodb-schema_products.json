@@ -1,0 +1,25 @@
+[{
+    "_id": "c001",
+    "name": "Diamond Scanning Crash Course",
+    "product_type": "service_online",
+    "price": 1590,
+    "stock": 999,
+    "description": "คอร์สเรียนออนไลน์เพชรเบื้องต้นสำหรับผู้ที่จะซื้อแหวนแต่งงาน"
+},
+{
+    "_id": "c002",
+    "name": "Solitaire Friend",
+    "product_type": "service_onsite",
+    "price": 2590,
+    "stock": 999,
+    "description": "บริการส่ง Solitaire Friend ไปเป็นเพื่อนซื้อที่หน้าร้านเพชร ลดความกังวลและความกดดันจากพนักงานขาย และช่วยดูแลการเลือกแหวนเพชรให้เหมาะสมกับงบประมาณและความต้องการของลูกค้า"
+},
+{
+    "_id": "c003",
+    "name": "Solitaire Diamond Starter Kit",
+    "product_type": "physical",
+    "price": 1290,
+    "stock": 999,
+    "description": "กล้องส่องตำหนิเพชร, อุปกรณ์วัดขนาดแหวน, และเอกสารการเลือกซื้อแหวนเพชรเบื้องต้น"
+}
+]
