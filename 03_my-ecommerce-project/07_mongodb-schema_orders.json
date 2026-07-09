@@ -1,6 +1,7 @@
 {
   "_id": "o001",
   "customer_id": "001",
+  "customer_name": "Ruby Corundum",
   "products": [
     {
       "product_id": "c001",
